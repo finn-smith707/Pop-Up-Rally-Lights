@@ -1,4 +1,4 @@
-# Pop Up Rally Lights
+# Pop-Up Rally Lights
 A set of off-roading aux lights that come with the function to flip up like sports cars from the 80's and 90's
 
 ![image](https://github.com/user-attachments/assets/db097677-5600-4287-8b94-c4583f2c20cc)
