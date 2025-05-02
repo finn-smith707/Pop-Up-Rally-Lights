@@ -28,6 +28,13 @@ All of the parts have been designed with 3D printing in mind, and very few of th
 - Loctite or similar for bolt threads 
 
 ## To do
-The project is very much still in "active" developement and numerous things are still either missing or incomplete from the published design. These include covers for the side of the headlights that is not lighted, wiring, a way to mount it to a car, and most of the electronics. All of these items neccesitate buying the components and then building them around that, and that's something I can't exactly do with my budget currently. These items will be finished at a later time, and later is always sometime between now and the heat death of the universe. It is completely likely that these files will be left to rot for the rest of time and never see the light of day again, but it is just as likely that I'll suddenly gain the realization that I want rally lights on my car and end up finishing the design. 
+The project is very much still in "active" developement and numerous things are still either missing or incomplete from the published design. These include:
+  - Covers for the side without the headlight
+  - A way to mount it to a car
+  - Connections from each pod to the center axle
+  - Wiring in general
+  - Most of the electronics
+    
+Most of these items neccesitate buying the components and then building them around that, and that's something I can't exactly do with my budget currently. These items will be finished at a later time, and later is always sometime between now and the heat death of the universe. It is completely likely that these files will be left to rot for the rest of time and never see the light of day again, but it is just as likely that I'll suddenly gain the realization that I want rally lights on my car and end up finishing the design. 
 
 TLDR; Things are missing, might finish later, good enough for now
